@@ -5,4 +5,4 @@ Python script utilizing Cloudflare API to import IP lists into Cloudflare Zero T
 
 ---
 
-!(blocklist-ipsets)[https://github.com/firehol/blocklist-ipsets]
+[blocklist-ipsets](https://github.com/firehol/blocklist-ipsets)
